@@ -1,3 +1,7 @@
+
+![Diagram](images/Relic_03.png)
+
+
 # SDK7 Template scene
 
 ## Try it out
